@@ -4,7 +4,7 @@
 
 | Problem         | Scopula sol | Scopula edo | Bone sol | Bone edo |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| [Laptops](https://codeforces.com/problemset/problem/456/A) | [Sol](https.github.com/laptops.cpp)  | [Edo](https.github.com/edo.pdf) | [Sol](https.github.com/laptops.cpp)  | [Edo](https.github.com/edo.pdf) |
+| [Laptops](https://codeforces.com/problemset/problem/456/A) | [Sol](https.github.com/laptops.cpp)  | [Edo](https.github.com/edo.pdf) | [Sol](https://github.com/123bone/solutions/blob/master/misc/sol/laptops.cpp)  | [Edo](https://raw.githubusercontent.com/123bone/solutions/master/misc/edo/laptops.pdf) |
 | Empty | Empty | Empty | Empty | Empty |
 | Empty | Empty | Empty | Empty | Empty |
 
