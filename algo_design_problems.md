@@ -12,5 +12,5 @@
 
 | Problem         | Scopula sol | Scopula edo | Bone sol | Bone edo |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| Empty | Empty | Empty | Empty | Empty |
+| [Movie Festival](https://cses.fi/problemset/task/1629/) | Empty | Empty | Empty | Empty |
 | Empty | Empty | Empty | Empty | Empty |
